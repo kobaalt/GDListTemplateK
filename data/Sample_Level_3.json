@@ -1,24 +1,18 @@
 {
     "id": 57436521,
-    "name": "Sample Level 3",
-    "author": "Different Publisher",
-    "creators": ["Solo_Creator"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "46290",
+    "name": "ONE-ARMED IDIOTS - A KITCHEN NIGHTMARE",
+    "author": "kobalt",
+    "creators": ["kobalt", "kobalt", "kobalt is the only creator im just scared to delete anything outside of quotation marks in this code"],
+    "verifier": "kobalt",
+    "verification": "https://www.youtube.com/watch?v=xPxcZesbKt0",
+    "percentToQualify": 420,
+    "password": "420420420420",
     "records": [
         {
-            "user": "Sample_Victor_1",
+            "user": "mrbig",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "Sample_Victor_2",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 120
+            "percent": 420,
+            "hz": 14
         }
     ]
 }
